@@ -1,0 +1,31 @@
+[id*= 'region_']{
+	cursor:pointer;
+}
+
+
+body{
+	background: black;
+}
+
+
+h1{
+	font-size: 2cm;
+	color: #E30101;
+	text-align: center;
+}
+
+p{
+	color: white;
+	font-size: 1cm;
+}
+
+
+link{
+	font-size: 1cm;
+}
+
+
+#infosRegion{
+	font-weight: 700;
+	font-size: 2cm;
+}
